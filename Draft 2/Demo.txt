@@ -1,0 +1,39 @@
+Name of Lattice:    Demo
+Cross Section:      Circular
+Sample Diameter: 30
+Number of Layers:   2
+
+Layer Number:       1
+Number of Parts: 1
+Part Number:    1
+Unit Cell:      Octet
+Cell Type:      Strut
+Cell Length:	4.00000
+Rel Density:	0.30000
+Strut Length:	2.82843
+Strut Width:	0.69695
+Number of layers: 3
+Surface Ratio:	1.000
+
+Layer Number:       2
+Number of Parts: 2
+Part Number:    1
+Unit Cell:      BCC+FCC
+Cell Type:      Strut
+Cell Length:	4.00000
+Rel Density:	0.30000
+Strut Length:	2.98735
+Strut Width:	0.73179
+Number of layers: 3
+Surface Ratio:	0.600
+
+Part Number:    2
+Unit Cell:      Octet
+Cell Type:      Strut
+Cell Length:	4.00000
+Rel Density:	0.30000
+Strut Length:	2.82843
+Strut Width:	0.69695
+Number of layers: 3
+Surface Ratio:	0.400
+
