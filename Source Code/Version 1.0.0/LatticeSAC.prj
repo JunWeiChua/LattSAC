@@ -1,0 +1,169 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="2445883785" file="C:\Users\chuaj\Documents\MATLAB\Lattice Sound Absorption App\Draft 2\LatticeSAC.prj" location="C:\Users\chuaj\Documents\MATLAB\Lattice Sound Absorption App\Draft 2" name="LatticeSAC" preferred-package-location="C:\Users\chuaj\Documents\MATLAB\Lattice Sound Absorption App\Draft 2\LatticeSAC\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>LattSAC</param.appname>
+    <param.icon>${PROJECT_ROOT}\LatticeSAC_resources\icon.ico</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\LatticeSAC_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\LatticeSAC_resources\icon_32.png</file>
+      <file>${PROJECT_ROOT}\LatticeSAC_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\LatticeSAC_resources\icon_16.png</file>
+    </param.icons>
+    <param.version>1.0</param.version>
+    <param.authnamewatermark>Chua Jun Wei</param.authnamewatermark>
+    <param.email>chua.junwei@u.nus.edu</param.email>
+    <param.company>National University of Singapore</param.company>
+    <param.summary>Design your own Lattice Sound Absorber</param.summary>
+    <param.description />
+    <param.screenshot>${PROJECT_ROOT}\AppSplash.png</param.screenshot>
+    <param.guid />
+    <param.installpath.string>\National University of Singapore\LattSAC\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo>${PROJECT_ROOT}\AppSplash.png</param.logo>
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\LatticeSAC\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\LatticeSAC\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\LatticeSAC\for_redistribution</param.output>
+    <param.logdir>${PROJECT_ROOT}\LatticeSAC</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>true</param.create.log>
+    <param.log.file>LattSAC_log.txt</param.log.file>
+    <param.native.matlab>false</param.native.matlab>
+    <param.checkbox>false</param.checkbox>
+    <param.example />
+    <param.help.text>Syntax 
+	  -? 
+	 
+ Input Arguments 
+	 -?  print help on how to use the application 
+	 input arguments</param.help.text>
+    <unset>
+      <param.version />
+      <param.description />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.install.notes />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.logdir />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.native.matlab />
+      <param.checkbox />
+      <param.example />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\LatticeSAC.mlapp</file>
+    </fileset.main>
+    <fileset.resources />
+    <fileset.package />
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\CellArch.m</file>
+      <file>${PROJECT_ROOT}\CellArchLib.m</file>
+      <file>${PROJECT_ROOT}\CellArchStrut.m</file>
+      <file>${PROJECT_ROOT}\Experiment Unit Cell Layers.mat</file>
+      <file>${PROJECT_ROOT}\ExportLatt.mlapp</file>
+      <file>${PROJECT_ROOT}\Lattice Library.mat</file>
+      <file>${PROJECT_ROOT}\Lattice.m</file>
+      <file>${PROJECT_ROOT}\LatticeLib.m</file>
+      <file>${PROJECT_ROOT}\LattLayer.m</file>
+      <file>${PROJECT_ROOT}\LattLayerPart.m</file>
+      <file>${PROJECT_ROOT}\LattLayerStrut.m</file>
+      <file>${PROJECT_ROOT}\LattPartProp.mlapp</file>
+      <file>${PROJECT_ROOT}\LinkedList.m</file>
+      <file>${PROJECT_ROOT}\LLNode.m</file>
+      <file>${PROJECT_ROOT}\LoadLatt.mlapp</file>
+      <file>${PROJECT_ROOT}\NUS Logo.png</file>
+      <file>${PROJECT_ROOT}\NUS Zhai Group Logo.png</file>
+      <file>${PROJECT_ROOT}\SaveLatt.mlapp</file>
+      <file>${PROJECT_ROOT}\SaveSAC.mlapp</file>
+      <file>${PROJECT_ROOT}\Strut Lattice.mat</file>
+      <file>${PROJECT_ROOT}\Unit Cell Architecture.mat</file>
+      <file>${PROJECT_ROOT}\UnitCellStrut.m</file>
+    </fileset.depfun>
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\LatticeSAC\for_testing" name="splash.png" optional="false">C:\Users\chuaj\Documents\MATLAB\Lattice Sound Absorption App\Draft 2\LatticeSAC\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\LatticeSAC\for_testing" name="LattSAC.exe" optional="false">C:\Users\chuaj\Documents\MATLAB\Lattice Sound Absorption App\Draft 2\LatticeSAC\for_testing\LattSAC.exe</file>
+      <file location="${PROJECT_ROOT}\LatticeSAC\for_testing" name="readme.txt" optional="true">C:\Users\chuaj\Documents\MATLAB\Lattice Sound Absorption App\Draft 2\LatticeSAC\for_testing\readme.txt</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2023a</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

@@ -1,0 +1,61 @@
+Name of Lattice:    Test
+Cross Section:      Circular
+Sample Diameter:    30
+Number of Layers:   3
+
+Layer Number:       1
+Number of Parts:    1
+Part Number:        1
+Unit Cell:          Octet
+Cell Type:          Strut
+Cell Length:	    4.50000
+Rel Density:	    0.35000
+Strut Length:	    3.18198
+Strut Width:	    0.85768
+Number of layers:   3
+Surface Ratio:	    1.000
+
+Layer Number:       2
+Number of Parts:    2
+Part Number:        1
+Unit Cell:          SC
+Cell Type:          Strut
+Cell Length:	    8.00000
+Rel Density:	    0.15000
+Strut Length:	    8.00000
+Strut Width:	    2.21312
+Number of layers:   2
+Surface Ratio:	    0.800
+
+Part Number:        2
+Unit Cell:          Kelvin Cell
+Cell Type:          Strut
+Cell Length:	    6.00000
+Rel Density:	    0.20000
+Strut Length:	    2.12132
+Strut Width:	    1.18906
+Number of layers:   2
+Surface Ratio:	    0.200
+
+Layer Number:       3
+Number of Parts:    2
+Part Number:        1
+Unit Cell:          Rhombic Dodecahedron
+Cell Type:          Strut
+Cell Length:	    7.50000
+Rel Density:	    0.10000
+Strut Length:	    3.24760
+Strut Width:	    0.76597
+Number of layers:   2
+Surface Ratio:	    0.500
+
+Part Number:        2
+Unit Cell:          FCC
+Cell Type:          Strut
+Cell Length:	    5.00000
+Rel Density:	    0.40000
+Strut Length:	    3.53553
+Strut Width:	    1.45570
+Number of layers:   3
+Surface Ratio:	    0.500
+
