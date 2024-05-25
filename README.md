@@ -27,4 +27,4 @@ As of Version 1.0.0, only seven strut lattices are available. It is desired to a
 - Chua, J. W., Lai, Z., Li, X. & Zhai, W. LattSAC: A Software for the Acoustic Modelling of Lattice Sound Absorbers. Virtual and Physical Prototyping (2024). https://doi.org/10.1080/17452759.2024.2342432
 
 ## Contacts
-If there are any suggestions or contributions, the user may write to zhaiweigroup@gmail.com.
+If there are any suggestions or contributions, the user may write to zhaiweigroup@gmail.com. Alternatively (Until May 2025), you can write in directly to me (Chua Jun Wei) at chua.junwei@u.nus.edu.
