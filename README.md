@@ -18,7 +18,7 @@ Once the lattice design has been confirmed, one can calculate the SAC. The app p
 One can export the SAC plot and statistics into a figure file and text file respectively. One can also export the lattice design into an external file for reference. The text file contains information on the lattice sound absorber as finetuned in the application itself, as well as information on the individual layers and parts. The file contains all the necessary information for one to draw the whole lattice in another computer-aided design (CAD) software.
 
 ## What Unit Cell Designs are available?
-![Uploading image.png…]()
+<img width="805" alt="LattSAC_UnitCells" src="https://github.com/user-attachments/assets/15a1cb57-38ce-4794-a796-8d8a20dbd0ec">
 
 EDIT: Version 1.1.0 contains a collection of 7 strut lattices, 3 plate lattices and 8 TPMS lattices, allowing for more lattice permutations with a wide range of acoustic properties.
 
