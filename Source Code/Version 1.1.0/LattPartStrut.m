@@ -72,7 +72,7 @@ classdef LattPartStrut < LattLayerPart
 				
 				% Overall transfer matrix.
 				for layer = 1:num_layers
-					TM_layer = TM_air*TM_pore*TM_air;
+					TM_layer = TM_pore*TM_air*TM_pore;
 					if layer == 1
 						TM_whole = TM_layer;
 					else
