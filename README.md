@@ -26,6 +26,7 @@ As of Version 1.0.0, only seven strut lattices are available. It is desired to a
 
 ## Find a Lattice (Version 1.2.0 Onward)
 ![LattSAC_FindLattice](https://github.com/user-attachments/assets/82d0e9de-f846-4216-b790-bf88e09ef067)
+
 New to Version 1.2.0, this functionality in LattSAC allows you to find a multi-layered lattice structure that satisfies your design constraints and optimizes the SACs over a targeted frequency range.
 
 ## Relevant References
@@ -36,4 +37,5 @@ New to Version 1.2.0, this functionality in LattSAC allows you to find a multi-l
 
 ## Contacts
 (Updated 22 April 2025: Research project within Zhai Group has ended and I am about to graduate from my studies. Contact details remain the same, but I cannot promise that I will update the application, since I may no longer work on it full-time. - Jun Wei)
+
 If there are any suggestions or contributions, the user may write to zhaiweigroup@gmail.com. Alternatively (Until May 2025), you can write in directly to me (Chua Jun Wei) at chua.junwei@u.nus.edu.
