@@ -3,7 +3,7 @@
 
 ## What is LattSAC?
 LattSAC is a lattice design and modeling application that designs various lattice sound-absorbing materials by inputting only the necessary geometry parameters. The software then calculates the sound absorption coefficients (SAC) of the lattice sound absorber with insights into the mean performances over selected frequency bands.
-![LattSAC_LattProp](https://github.com/user-attachments/assets/f1ef7d16-4e65-425f-97b2-dd1ee7457b92)
+![LattSAC_LattProp](https://github.com/user-attachments/assets/8bfa9134-2b5e-480a-bd03-d31a02ceb55a)
 
 ## How to use LattSAC?
 Using this app requires you to have a basic intuition on how a heterogeneous lattice sound absorber is generated. Below is a schematic:
@@ -24,10 +24,16 @@ EDIT: Version 1.1.0 contains a collection of 7 strut lattices, 3 plate lattices 
 
 As of Version 1.0.0, only seven strut lattices are available. It is desired to add many different types of lattice unit cells into the cell architecture library, such as plate lattices, plates with micro-perforations, hollow strut lattices, TPMS lattices, and hybrids of the above lattice types.
 
+## Find a Lattice (Version 1.2.0 Onward)
+![LattSAC_FindLattice](https://github.com/user-attachments/assets/82d0e9de-f846-4216-b790-bf88e09ef067)
+New to Version 1.2.0, this functionality in LattSAC allows you to find a multi-layered lattice structure that satisfies your design constraints and optimizes the SACs over a targeted frequency range.
+
 ## Relevant References
 - Li, X. et al. 3D-Printed Lattice Structures for Sound Absorption: Current Progress, Mechanisms and Models, Structural-Property Relationships, and Future Outlook. Advanced Science 11, e2305232 (2024). https://doi.org/10.1002/advs.202305232
 - Lai, Z., Zhao, M., Lim, C. H. & Chua, J. W. Experimental and numerical studies on the acoustic performance of simple cubic structure lattices fabricated by digital light processing. Materials Science in Additive Manufacturing 1 (2022). https://doi.org/10.18063/msam.v1i4.22
 - Chua, J. W., Lai, Z., Li, X. & Zhai, W. LattSAC: A Software for the Acoustic Modelling of Lattice Sound Absorbers. Virtual and Physical Prototyping (2024). https://doi.org/10.1080/17452759.2024.2342432
+- Chua, J. W., Zhai, W. & Li, X. Elucidating Structure-Property relationships for optimization of plate lattice sound absorbers. Materials & Design 253 (2025). https://doi.org/10.1016/j.matdes.2025.113801
 
 ## Contacts
+(Updated 22 April 2025: Research project within Zhai Group has ended and I am about to graduate from my studies. Contact details remain the same, but I cannot promise that I will update the application, since I may no longer work on it full-time. - Jun Wei)
 If there are any suggestions or contributions, the user may write to zhaiweigroup@gmail.com. Alternatively (Until May 2025), you can write in directly to me (Chua Jun Wei) at chua.junwei@u.nus.edu.
