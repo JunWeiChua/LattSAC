@@ -1,9 +1,9 @@
 # LattSAC: Design of Heterogeneous Lattice Structures for Acoustic Applications
-![AppSplash](https://github.com/JunWeiChua/LattSAC/assets/71920481/badcc9e3-5fe3-4237-9fdc-384d73f202a1)
+![AppSplash](https://github.com/user-attachments/assets/5d964894-d2ee-42d3-821e-54631b1f6596)
 
 ## What is LattSAC?
 LattSAC is a lattice design and modeling application that designs various lattice sound-absorbing materials by inputting only the necessary geometry parameters. The software then calculates the sound absorption coefficients (SAC) of the lattice sound absorber with insights into the mean performances over selected frequency bands.
-![LatticeSAC](https://github.com/JunWeiChua/LattSAC/assets/71920481/590449d2-c4a4-4f9c-9e35-112bc684090a)
+![LattSAC_LattProp](https://github.com/user-attachments/assets/f1ef7d16-4e65-425f-97b2-dd1ee7457b92)
 
 ## How to use LattSAC?
 Using this app requires you to have a basic intuition on how a heterogeneous lattice sound absorber is generated. Below is a schematic:
@@ -18,7 +18,7 @@ Once the lattice design has been confirmed, one can calculate the SAC. The app p
 One can export the SAC plot and statistics into a figure file and text file respectively. One can also export the lattice design into an external file for reference. The text file contains information on the lattice sound absorber as finetuned in the application itself, as well as information on the individual layers and parts. The file contains all the necessary information for one to draw the whole lattice in another computer-aided design (CAD) software.
 
 ## What Unit Cell Designs are available?
-<img width="805" alt="LattSAC_UnitCells" src="https://github.com/user-attachments/assets/15a1cb57-38ce-4794-a796-8d8a20dbd0ec">
+![LattSAC_UnitCells](https://github.com/user-attachments/assets/53aefbea-7db2-4d30-bd1d-805006729cc6)
 
 EDIT: Version 1.1.0 contains a collection of 7 strut lattices, 3 plate lattices and 8 TPMS lattices, allowing for more lattice permutations with a wide range of acoustic properties.
 
