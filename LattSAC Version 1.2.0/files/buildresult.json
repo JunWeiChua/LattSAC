@@ -1,0 +1,18 @@
+{
+	"RuntimeDependencies": [
+		{"ID":35000, "DisplayName":"MATLAB Extended Runtime Addon", "Optional":"no"},
+		{"ID":35002, "DisplayName":"MATLAB Graphics Runtime Addon", "Optional":"no"},
+		{"ID":35003, "DisplayName":"MATLAB Standard Runtime Addon", "Optional":"no"},
+		{"ID":35010, "DisplayName":"MATLAB Base Runtime", "Optional":"no"},
+		{"ID":35103, "DisplayName":"Control System Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35104, "DisplayName":"System Identification Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35106, "DisplayName":"Optimization Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35108, "DisplayName":"Signal Processing Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35112, "DisplayName":"Deep Learning Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35119, "DisplayName":"Statistics and Machine Learning Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35160, "DisplayName":"Curve Fitting Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35180, "DisplayName":"Parallel Computing Toolbox Standard Runtime Addon", "Optional":"no"},
+		{"ID":35190, "DisplayName":"Global Optimization Toolbox Runtime Addon", "Optional":"no"},
+		{"ID":35274, "DisplayName":"Simulink Compiler Runtime Addon", "Optional":"no"}
+	]
+}
